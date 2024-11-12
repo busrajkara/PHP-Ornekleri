@@ -1,6 +1,6 @@
 # Gelişmiş Prenses Temalı PHP Örnekleri
 
-Bu proje, prenses temalı bir web sayfası oluşturmak için PHP ve çeşitli HTML ve CSS yapıları kullanılarak geliştirilmiştir. Farklı bileşenlerin ve yapıların detaylı örnekleri sunulmuştur.
+Bu proje, prenses temalı bir web sayfası oluşturmak için PHP ve çeşitli HTML ve CSS yapıları kullanılarak geliştirilmiştir. Farklı bileşenlerin ve yapıların detaylı örnekleri sunulmuştur. Her biri yorum satırları ile açıklanmıştır.
 
 ---
 
